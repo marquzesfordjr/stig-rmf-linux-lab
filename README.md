@@ -30,10 +30,10 @@ This lab simulates a defense-oriented security environment aligned with NIST 800
 
 ISP/Modem
 - ↓
-- Travel Router (WiFi as WAN)
+Travel Router (WiFi as WAN)
 - ↓
-- OPNsense Firewall (NAT / DHCP / DNS / IDS)
+OPNsense Firewall (NAT / DHCP / DNS / IDS)
 - ↓
-- Switch
+Switch
 - ↓
-- Raspberry Pi 5 (Hardened Debian-Based System)
+Raspberry Pi 5 (Hardened Debian-Based System)
