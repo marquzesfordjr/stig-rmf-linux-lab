@@ -27,7 +27,7 @@ This lab simulates a defense-oriented security environment aligned with NIST 800
 ---
 
 ## Lab Architecture
--
+
 
 ISP/Modem
 
