@@ -1,1 +1,32 @@
+# Pre-Hardening Security Assessment
 
+Tool: Lynis 3.1.4  
+Date: 2026-02-17   ← REPLACE WITH REAL DATE  
+
+## Results Summary
+
+Warnings: 3  
+Suggestions: 51  
+
+## Critical Findings
+
+- System reboot required after updates (KRNL-5830)
+- No dedicated security repository configured (PKGS-7388)
+- One or more vulnerable packages detected (PKGS-7392)
+
+## Notable Improvement Areas
+
+- SSH configuration hardening recommended
+- Password policy enhancements needed
+- Automatic update configuration recommended
+- Fail2ban not installed
+- No file integrity monitoring tool detected
+- No external log forwarding configured
+- Kernel sysctl hardening opportunities identified
+
+## Risk Overview
+
+Current posture reflects a default Debian installation with limited hardening controls enabled.  
+Primary risks include outdated packages, insufficient authentication protections, and lack of host-based intrusion prevention.
+
+This baseline establishes the system’s initial security posture prior to STIG-aligned remediation.
