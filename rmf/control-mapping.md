@@ -2,7 +2,7 @@
 
 | Control | Implementation | Evidence |
 
-|----------|---------------|----------|
+|----------|------------------|------------|
 
 | AC-7 | Account lockout | pam-policy.md |
 
