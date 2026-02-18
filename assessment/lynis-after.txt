@@ -5,5 +5,5 @@ Warnings: 4
 Suggestions: 45
 
 Improvement:
-Hardening Index increased by 20 points.
+Hardening Index increased by 25 points.
 
