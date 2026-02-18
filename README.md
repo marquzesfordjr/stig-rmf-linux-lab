@@ -28,4 +28,4 @@ This lab simulates a defense-oriented security environment aligned with NIST 800
 
 ## Lab Architecture
 
-Internet → Router → OPNsense Firewall → Internal VLAN → Raspberry Pi
+Internet → Router → OPNsense Firewall → Raspberry Pi
