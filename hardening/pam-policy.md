@@ -1,6 +1,7 @@
 # Password Policy
 
 - Control: IA-5
+
 Complexity:
 
 minlen = 14
