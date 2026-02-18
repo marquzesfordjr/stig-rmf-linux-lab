@@ -1,1 +1,9 @@
+# Post-Hardening Assessment
+
+Hardening Index: 65
+Warnings: 4
+Suggestions: 45
+
+Improvement:
+Hardening Index increased by 20 points.
 
