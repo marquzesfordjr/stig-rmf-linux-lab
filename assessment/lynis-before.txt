@@ -5,6 +5,7 @@ Date: 2026-02-17
 
 ## Results Summary
 
+Hardening Index: 40
 Warnings: 3  
 Suggestions: 51  
 
