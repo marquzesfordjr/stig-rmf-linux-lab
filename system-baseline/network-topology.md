@@ -6,11 +6,6 @@ The Raspberry Pi is deployed behind an OPNsense firewall within a segmented home
 ## Network Flow
 Internet → Router → OPNsense Firewall → Internal VLAN → Raspberry Pi
 
-## Segmentation
-- VLAN 10: Management
-- VLAN 20: Lab Systems
-- VLAN 30: IoT
-
 ## Security Controls in Place
 - Stateful firewall rules on OPNsense
 - NAT enabled
