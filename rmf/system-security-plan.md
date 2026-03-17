@@ -16,7 +16,6 @@ CM
 SI
 
 Authorization Boundary:
-Defined in network-topology.md
 
 Residual Risks:
 - No MFA
